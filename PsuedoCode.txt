@@ -1,0 +1,12 @@
+Finding average score
+1.) Prompt the user for ten exam scores
+2.) Get the ten exam scores (store as ints)
+3.) Calculate average scores = (add all exam scores)/(total exams # = (int)10)
+4.) Display (int)average score for exams
+
+How much water runs off the roof
+1.)Prompt user for dimensions of the roof (store as ints)
+2.)Get inches from dimensions (dimension1 * 12, dimension2 * 12) -> store in dimensionsInches
+3.)Multiply dimensionsInches by #inches of rainfall-> store in variable called runoff
+4.)Divide runoff by 231 to get # of gallons -> store in calculated runoff
+5.)Display calculated runoff
